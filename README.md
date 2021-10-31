@@ -1,5 +1,7 @@
-# Aadhaar_hackathon
-This repository contains the Nodejs files for a REST API that helps in formatting address in aadhaar card. 
+# Aadhaar hackathon : Problem statement 3 of Address authentication
+
+
+This folder contains the Nodejs files for a REST API that helps in formatting address in the aadhaar card. 
 It supports 100 languages.
 
 
@@ -97,7 +99,7 @@ languages. So the user may choose any language by changing the configuration
 Advantages of this API:
 1. Allows effective Address formatting
 2. Extracts only the address
-3. Removes unwanted characters
+3. Removes unwanted characters and repeated words 
 4. Supports 100 different langauges
 5. A Scalable design as a number of different things can be added
 6. Very easy to import as it is a web based REST API
