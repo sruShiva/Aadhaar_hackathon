@@ -105,8 +105,8 @@ Advantages of this API:
 6. Very easy to import as it is a web based REST API
 
 Additions that can be made:
-1. The deign can be integrated with various different applications to create powerful and effective solutions
+1. The design can be integrated with various different applications to create powerful and effective solutions
 2.  URL can be made secure 
-3.  CAn be used for other purposes, too
+3.  Can be used for other purposes, too
 
 
