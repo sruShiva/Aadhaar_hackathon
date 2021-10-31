@@ -31,6 +31,7 @@ a corressponding text address
 		const config = {
 			lang: "eng",
 			oem: 1,
+
 			psm: 3,
 		}
 
@@ -84,3 +85,26 @@ languages. So the user may choose any language by changing the configuration
   Input as an aadhaar image :
   
   
+  ![aadhaar](https://user-images.githubusercontent.com/91767610/139588050-6bcd38e2-681e-4ad1-8683-7481f5818659.jpg)
+		
+		
+ Ouput on the web
+ browser as:
+ 
+ ![WhatsApp Image 2021-10-31 at 19 54 07](https://user-images.githubusercontent.com/91767610/139588204-42004f2f-c421-447a-bbad-98fd4fad8e22.jpeg)
+		
+		
+Advantages of this API:
+1. Allows effective Address formatting
+2. Extracts only the address
+3. Removes unwanted characters
+4. Supports 100 different langauges
+5. A Scalable design as a number of different things can be added
+6. Very easy to import as it is a web based REST API
+
+Additions that can be made:
+1. The deign can be integrated with various different applications to create powerful and effective solutions
+2.  URL can be made secure 
+3.  CAn be used for other purposes, too
+
+
